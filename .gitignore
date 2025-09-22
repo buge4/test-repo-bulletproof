@@ -1,0 +1,14 @@
+# Genesis Platform
+.env
+*.log
+node_modules/
+dist/
+build/
+
+# Backup files
+*.backup
+*.bak
+
+# Temporary files
+tmp/
+temp/
